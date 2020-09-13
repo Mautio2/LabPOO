@@ -22,11 +22,11 @@ public class Practica1 {
         System.out.println("Introduce Num1: ");
         int a = sc1.nextInt();
         
-        System.out.println("Introduce Num2: ");
+        System.out.println("Introduce Num21: ");
         int b = sc2.nextInt();
         //int a = 1;
         //int b = 2;
-        double c = 0;
+        int c = 0;
         
         c = a + b;
         
