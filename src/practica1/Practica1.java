@@ -22,11 +22,11 @@ public class Practica1 {
         System.out.println("Introduce Num1: ");
         int a = sc1.nextInt();
         
-        System.out.println("Introduce Num21: ");
+        System.out.println("Introduce Num2: ");
         int b = sc2.nextInt();
         //int a = 1;
         //int b = 2;
-        int c = 0;
+        float c = 0;
         
         c = a + b;
         
@@ -37,7 +37,7 @@ public class Practica1 {
        
         System.out.println("Resta:" +c);
         
-        c= a / b;
+        c=(float) a / b;
         System.out.println("Division:" +c);
         
         c= a * b;
